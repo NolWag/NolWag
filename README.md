@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Fullstack Developer
+## Fullstack Developer
 Currently specializing in Shopify Plus Development:
 Shopify Apps, Checkout Extensions, Functions, Post Purchase, Theme Extensions, POS Extensions & more.
 
