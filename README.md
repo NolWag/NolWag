@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Fullstack Developer
+Currently specializing in Shopify Plus Development:
+Shopify Apps, Checkout Extensions, Functions, Post Purchase, Theme Extensions, POS Extensions & more.
+
+Enterprise Ecommerce Solutions: Middleware, ERP, PIM, IMS, Search & Merch.
+
+
+
 <!--
 **NolWag/NolWag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
